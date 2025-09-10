@@ -1,6 +1,6 @@
 const list = [
   {
-    titulo: "A casa de papel",
+    titulo: "La Casa de Papel",
     genero: "Suspense, Crime, Drama",
     autor: "Alex Pina",
     ano: "2017",

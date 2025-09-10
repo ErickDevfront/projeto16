@@ -22,6 +22,7 @@ function List({livros}) {
             description={list.description}
             capa={list.capa}
             genero={list.genero}
+    
           />
         ))}
       </div>
