@@ -1,0 +1,29 @@
+.header{
+    background-color: #0a0b11;
+    padding: 20px;
+    color: white;
+    
+   
+    top: 0;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    position: absolute;
+
+}
+
+button{
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: #0e161d;
+    color: rgb(186, 180, 180);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    justify-content: space-between;
+    align-items: center;    
+    position: inherit;
+    font-family: 'Arial', sans-serif;
+    
+}
